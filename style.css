@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(212, 174, 117);
+    font: normal 15px Arial;
+    color: white;
+}
+
+header{
+    font: normal 15px Arial;
+    text-align: center;
+}
+section{
+    color: black;
+    background-color: white;
+    font: normal 15px Arial;
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.219);
+}
+
+section #foto #imagem {
+    max-height: 300px;
+    border-radius: 50%;
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+    font: normal 15px Arial;
+}
+
+footer{
+    margin-top: 10px;
+    font: normal 15px Arial;
+    text-align: center;
+}
